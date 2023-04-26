@@ -1,0 +1,4 @@
+teste teste teste teste
+appending a new line 
+appending a second line 
+testing rebase and cherry-pick in git
